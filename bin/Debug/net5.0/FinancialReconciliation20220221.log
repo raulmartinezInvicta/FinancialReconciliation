@@ -1,0 +1,8 @@
+2022-02-21 16:34:17.009 -06:00 [INF] Inicio correctamente
+2022-02-21 17:06:20.038 -06:00 [INF] Main Process exec
+2022-02-21 17:06:20.169 -06:00 [INF] Query Pending Posting Shipments:
+2022-02-21 17:06:20.204 -06:00 [INF] dbo.Merlin_SP_Qry_ShipConfirm
+2022-02-21 17:06:21.032 -06:00 [INF] Shipment object obtained
+2022-02-21 17:06:21.035 -06:00 [INF] Query Return Process:
+2022-02-21 17:06:21.035 -06:00 [INF] dbo.Merlin_SP_Qry_Return
+2022-02-21 17:06:27.088 -06:00 [INF] Return object obtained
